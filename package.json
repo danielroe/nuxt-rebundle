@@ -1,6 +1,6 @@
 {
   "name": "nuxt-rebundle",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "license": "MIT",
   "description": "Bundler optimisations for Nuxt",
   "repository": {
