@@ -1,0 +1,2 @@
+typescript.includeWorkspace=true
+modules[]=@nuxt/test-utils/module
