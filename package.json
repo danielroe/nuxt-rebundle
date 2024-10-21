@@ -39,7 +39,6 @@
     "dev:prepare": "pnpm nuxt-module-build build --stub && pnpm nuxt-module-build prepare && nuxi prepare playground",
     "lint": "eslint .",
     "prepack": "pnpm build",
-    "prepare": "pnpm dev:prepare",
     "prepublishOnly": "pnpm lint && pnpm test",
     "release": "bumpp && pnpm publish",
     "test": "true || vitest run",
