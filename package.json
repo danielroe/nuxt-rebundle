@@ -53,7 +53,7 @@
     "pathe": "^2.0.0"
   },
   "devDependencies": {
-    "@nuxt/eslint-config": "1.0.0",
+    "@nuxt/eslint-config": "1.0.1",
     "@nuxt/module-builder": "0.8.4",
     "@nuxt/schema": "3.15.4",
     "@nuxt/test-utils": "3.15.4",
@@ -78,5 +78,5 @@
     "nuxt-rebundle": "link:.",
     "vue": "3.5.13"
   },
-  "packageManager": "pnpm@10.2.0"
+  "packageManager": "pnpm@10.2.1"
 }
