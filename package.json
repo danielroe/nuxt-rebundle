@@ -68,7 +68,7 @@
     "vitest": "4.0.15",
     "vitest-environment-nuxt": "1.0.1",
     "vue": "3.5.25",
-    "vue-tsc": "3.1.5"
+    "vue-tsc": "3.1.7"
   },
   "peerDependencies": {
     "nuxt": ">=3.12.0"
