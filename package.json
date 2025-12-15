@@ -61,7 +61,7 @@
     "@vitest/coverage-v8": "4.0.15",
     "@vue/test-utils": "2.4.6",
     "bumpp": "10.3.2",
-    "eslint": "9.39.1",
+    "eslint": "9.39.2",
     "nuxt": "4.2.2",
     "typescript": "5.9.3",
     "vite": "7.2.7",
