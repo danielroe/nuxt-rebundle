@@ -67,7 +67,7 @@
     "vite": "7.3.0",
     "vitest": "4.0.15",
     "vitest-environment-nuxt": "1.0.1",
-    "vue": "3.5.25",
+    "vue": "3.5.26",
     "vue-tsc": "3.1.8"
   },
   "peerDependencies": {
@@ -76,7 +76,7 @@
   "resolutions": {
     "@nuxt/kit": "^4.0.0",
     "nuxt-rebundle": "link:.",
-    "vue": "3.5.25"
+    "vue": "3.5.26"
   },
   "packageManager": "pnpm@10.26.0"
 }
