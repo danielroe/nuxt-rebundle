@@ -53,7 +53,7 @@
     "pathe": "^2.0.0"
   },
   "devDependencies": {
-    "@nuxt/eslint-config": "1.12.1",
+    "@nuxt/eslint-config": "1.13.0",
     "@nuxt/module-builder": "1.0.2",
     "@nuxt/schema": "4.3.0",
     "@nuxt/test-utils": "3.23.0",
@@ -68,7 +68,7 @@
     "vitest": "4.0.17",
     "vitest-environment-nuxt": "1.0.1",
     "vue": "3.5.27",
-    "vue-tsc": "3.2.2"
+    "vue-tsc": "3.2.4"
   },
   "peerDependencies": {
     "nuxt": ">=3.12.0"
