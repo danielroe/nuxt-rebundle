@@ -47,9 +47,9 @@ Published under the [MIT License](./LICENCE).
 
 <!-- Badges -->
 
-[npm-version-src]: https://img.shields.io/npm/v/nuxt-rebundle?style=flat-square
-[npm-version-href]: https://npmjs.com/package/nuxt-rebundle
-[npm-downloads-src]: https://img.shields.io/npm/dm/nuxt-rebundle?style=flat-square
+[npm-version-src]: https://npmx.dev/api/registry/badge/version/nuxt-rebundle
+[npm-version-href]: https://npmx.dev/package/nuxt-rebundle
+[npm-downloads-src]: https://npmx.dev/api/registry/badge/downloads/nuxt-rebundle
 [npm-downloads-href]: https://npm.chart.dev/nuxt-rebundle
 [github-actions-src]: https://img.shields.io/github/actions/workflow/status/danielroe/nuxt-rebundle/ci.yml?branch=main
 [github-actions-href]: https://github.com/danielroe/nuxt-rebundle/actions?query=workflow%3Aci
