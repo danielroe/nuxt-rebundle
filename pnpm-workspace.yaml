@@ -9,4 +9,4 @@ allowBuilds:
 overrides:
   "@nuxt/kit": "^4.0.0"
   nuxt-rebundle: "workspace:*"
-  vue: "3.5.42"
+  vue: "3.5.43"
