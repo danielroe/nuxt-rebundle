@@ -57,7 +57,7 @@
     "@nuxt/module-builder": "1.0.3",
     "@nuxt/schema": "4.5.2",
     "@nuxt/test-utils": "4.3.3",
-    "@types/node": "24.19.0",
+    "@types/node": "24.19.1",
     "@vitest/coverage-v8": "5.0.2",
     "@vue/test-utils": "2.5.1",
     "bumpp": "12.3.0",
@@ -68,7 +68,7 @@
     "vitest": "5.0.2",
     "vitest-environment-nuxt": "2.0.0",
     "vue": "3.5.43",
-    "vue-tsc": "3.3.11"
+    "vue-tsc": "3.3.12"
   },
   "peerDependencies": {
     "nuxt": ">=3.12.0"
