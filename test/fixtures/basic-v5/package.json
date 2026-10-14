@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "name": "basic-v5",
+  "type": "module",
+  "dependencies": {
+    "nuxt": "npm:nuxt-nightly@5x"
+  }
+}

@@ -1,2 +1,4 @@
 typescript.includeWorkspace=true
 modules[]=@nuxt/test-utils/module
+typescript.tsConfig.exclude[]=../playground-v5
+typescript.tsConfig.exclude[]=../test/fixtures
