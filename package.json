@@ -61,7 +61,7 @@
     "@nuxt/test-utils": "4.4.0",
     "@types/node": "26.6.6",
     "@vitest/coverage-v8": "5.1.0",
-    "@vue/test-utils": "2.5.1",
+    "@vue/test-utils": "2.6.0",
     "bumpp": "12.3.0",
     "eslint": "10.14.0",
     "nuxt": "4.6.4",
